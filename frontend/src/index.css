@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  max-width: 90%;
+  margin-inline: auto;
+}
+
+.before-dot {
+  @apply after:content-[''] after:absolute after:-right-14 after:top-1/2 after:-translate-y-1/2 after:w-12 after:h-1
+   after:bg-green-500 after:rounded-full my-4 capitalize tracking-wide font-semibold text-3xl text-gray-800 font-serif;
+}
