@@ -49,15 +49,25 @@ A simple E-commerce project using **React** for the frontend and **JSON Server +
 📂 Project Structure
 src
  ├── assets/         # Images & icons
+ 
  ├── components/     # Reusable components
+ 
  ├── hooks/          # Custom Hooks
+ 
  ├── layout/         # App layouts
+ 
  ├── pages/          # Pages
+ 
  ├── router/         # Routing configuration
+ 
  ├── store/          # Redux store & slices
+ 
  ├── types/          # TypeScript type definitions (if any)
+ 
  ├── validations/    # Validation schemas
+ 
  ├── App.jsx
+ 
  └── main.jsx
 
  ----
@@ -85,16 +95,16 @@ For inquiries, open an issue on GitHub.
 ## 🖼 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./assets/screenshots/home.png)
+![Home Page](./frontend/src/assets/screenshots/home.png)
 
 ### 📂 Category Page
-![Category Page](./assets/screenshots/categorey.png)
+![Category Page](./frontend/srcassets/screenshots/categorey.png)
 
 ### 🛒 Cart Page
-![Cart Page](./assets/screenshots/cart.png)
+![Cart Page](./frontend/src/assets/screenshots/cart.png)
  
 ### 🔑 Login Page
-![Login Page](./assets/screenshots/login.png)
+![Login Page](./frontend/src/assets/screenshots/login.png)
 
 
 
