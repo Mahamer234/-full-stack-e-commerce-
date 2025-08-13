@@ -47,6 +47,7 @@ A simple E-commerce project using **React** for the frontend and **JSON Server +
 
 ---
 📂 Project Structure
+
 src
  ├── assets/         # Images & icons
  
@@ -98,7 +99,7 @@ For inquiries, open an issue on GitHub.
 ![Home Page](./frontend/src/assets/screenshots/home.png)
 
 ### 📂 Category Page
-![Category Page](./frontend/srcassets/screenshots/categorey.png)
+![Category Page](./frontend/src/assets/screenshots/categorey.png)
 
 ### 🛒 Cart Page
 ![Cart Page](./frontend/src/assets/screenshots/cart.png)
